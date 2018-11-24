@@ -127,6 +127,11 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
+shadow-red: 0;
+shadow-green: 255;
+shadow-blue: 255;
+shadow-alpha: 0.8;
+
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
