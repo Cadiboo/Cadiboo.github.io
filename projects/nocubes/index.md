@@ -4,8 +4,18 @@ title: NoCubes
 subtitle: A mod for 1.12.2+ using Forge that creates smooth terrain in Minecraft
 image: /projects/nocubes/nocubes.png
 ---
-![Realistic](/projects/nocubes/sd-images/realistic.png "Realistic")  
-[![RLCraft, but with real-life shaders and no cubes!](https://i.ytimg.com/vi/E0GFWcyqTX0/maxresdefault.jpg "RLCraft, but with real-life shaders and no cubes!")](https://www.youtube.com/watch?v=E0GFWcyqTX0)
+![Realistic](/projects/nocubes/sd-images/realistic.png "Realistic")
+
+### [Download](/projects/nocubes/download)
+Download the mod here!
+
+### [Discord Server](/projects/nocubes/discord)
+Get support, development updates, pre-releases and much, much more on our discord server.
+
+### Final Aim for NoCubes
+[![High-Resolution mountain picture by John Westrock](/projects/nocubes/john-westrock-1189512-unsplash.png "High-Resolution mountain picture by John Westrock")](https://unsplash.com/@johnwestrock?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)
+
+
 ### About NoCubes
 No Cubes is a completely unique mod that aims to add an exceptional twist to normal Minecraft gameplay and is the first mod in Minecraft history to fully transform and improve Minecraft’s terrain. NoCubes drastically transforms Minecraft’s traditional blocky terrain into smooth, rolling landscapes complete with circular caves, flowing mountain ranges and jaw-droppingly realistic scenery while leaving your painstakingly curated buildings untouched.
 [![Vanilla](https://github.com/Cadiboo/Cadiboo.github.io/blob/c140aaa4b2ef9bdab0fd9fa76843bc9f2622cead/projects/nocubes/sd-images/2019-03-11_20.21.14-min.png?raw=true "Vanilla")](https://github.com/Cadiboo/Cadiboo.github.io/blob/9253f656cf38212dae02ded4594944e88bc7b760/projects/nocubes/progress%20history/2019-03-11_20.21.14.png)[![NoCubes](https://github.com/Cadiboo/Cadiboo.github.io/blob/c140aaa4b2ef9bdab0fd9fa76843bc9f2622cead/projects/nocubes/sd-images/2019-03-11_20.17.52-min.png?raw=true "NoCubes")](https://github.com/Cadiboo/Cadiboo.github.io/blob/9253f656cf38212dae02ded4594944e88bc7b760/projects/nocubes/progress%20history/2019-03-11_20.17.52.png)
@@ -21,26 +31,6 @@ At first glance the world may seem to have been drastically changed, but this st
 The latest update to the mod features new renderers - such as OldNoCubes and SurfaceNets - to better suit individual players preferences, smooth lighting, liquid bodies that reach all the way to the shoreline, accurate collisions, rounded trees, smooth biome color transitions, enchanted multiplayer capabilities, many performance improvements and speed upgrades, RAM optimisations, texture randomisation, particle integration, leaves separation, faster lighting, texture improvement, emissive lighting support, increased mod compatibility and a multitude of other user-customisable options.
 [![Smooth Lighting](https://github.com/Cadiboo/Cadiboo.github.io/blob/c140aaa4b2ef9bdab0fd9fa76843bc9f2622cead/projects/nocubes/sd-images/2019-03-05_19.20.44-min.png?raw=true "Smooth Lighting")](https://github.com/Cadiboo/Cadiboo.github.io/blob/9253f656cf38212dae02ded4594944e88bc7b760/projects/nocubes/progress%20history/2019-03-05_19.20.44.png)[![OldNoCubes 1](https://github.com/Cadiboo/Cadiboo.github.io/blob/c140aaa4b2ef9bdab0fd9fa76843bc9f2622cead/projects/nocubes/sd-images/2019-03-05_20.04.31-min.png?raw=true "OldNoCubes 1")](https://github.com/Cadiboo/Cadiboo.github.io/blob/9253f656cf38212dae02ded4594944e88bc7b760/projects/nocubes/progress%20history/2019-03-05_20.04.31.png)[![OldNoCubes 2](https://github.com/Cadiboo/Cadiboo.github.io/blob/c140aaa4b2ef9bdab0fd9fa76843bc9f2622cead/projects/nocubes/sd-images/2019-03-11_20.26.26-min.png?raw=true "OldNoCubes 2")](https://github.com/Cadiboo/Cadiboo.github.io/blob/9253f656cf38212dae02ded4594944e88bc7b760/projects/nocubes/progress%20history/2019-03-11_20.26.26.png)[![Random Textures](https://github.com/Cadiboo/Cadiboo.github.io/blob/c140aaa4b2ef9bdab0fd9fa76843bc9f2622cead/projects/nocubes/sd-images/2019-03-06_16.39.01-min.png?raw=true "Random Textures")](https://github.com/Cadiboo/Cadiboo.github.io/blob/9253f656cf38212dae02ded4594944e88bc7b760/projects/nocubes/progress%20history/2019-03-06_16.39.01.png)
 This isn’t all that this mod has in store though, with even more mod compatibility, texture blending, even more performance optimisations, tree branch and trunk tweaks, placement previews, 3d minimaps, community configuration presets, higher resolution renders, more translations and more renderers all being worked on, and scheduled to be added in an upcoming update.
-
-Final Aim for NoCubes
-[![High-Resolution mountain picture by John Westrock](/projects/nocubes/john-westrock-1189512-unsplash.png "High-Resolution mountain picture by John Westrock")](https://unsplash.com/@johnwestrock?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)
-
-### [Download](/projects/nocubes/download)
-Download the mod here!
-
-### [Discord Server](/projects/nocubes/discord)
-Get support, development updates, pre-releases and much, much more on our discord server.
-
-### ToDo List
-- [x] Performance (Now more than 60 times faster than before)
-- [x] Smooth lighting (Works perfectly!)
-- [x] CullFacing Issues (Works with BetterFoliage!)
-- [x] Higher Accuracy Collisions (In pre-releases, the code is written but it needs testing)
-- [x] Fluid Fixes - Swimming through terrain (In pre-releases, needs testing)
-
-### Latest mod reviews
-[https://youtu.be/2A7L6dYcprs](https://youtu.be/2A7L6dYcprs)  
-[https://youtu.be/18jRus3rEE4](https://youtu.be/18jRus3rEE4)
 
 ### Screenshots (There are much better ones in #gallery on the discord server!)
 NoCubes 1.13.2

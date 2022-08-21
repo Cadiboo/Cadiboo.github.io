@@ -1,13 +1,14 @@
 {
 	"homepage": "https://Cadiboo.github.io/projects/nocubes/",
 	"promos": {
-		"1.14.4-recommended": "1.14.4-0.4.0-pre8",
-		"1.14.4-latest": "1.14.4-0.4.0-pre8",
-		"1.14.3-latest": "1.14.3-0.3.0-pre5",
-		"1.14.2-latest": "1.14.2-0.3.0-pre1",
-		"1.13.2-latest": "1.13.2-0.3.0",
+		"1.19.1-recommended": "1.19.1-0.5.0-dev-2b0e776",
+		"1.18.2-recommended": "1.18.2-0.5.0-dev-c3b54c21",
+		"1.16.5-recommended": "1.16.5-0.5.0-dev-fec81940",
+		"1.17.1-recommended": "1.17.1-0.5.0-dev-ba19df65",
+		"1.14.4-recommended": "1.14.4-0.4.0-pre9",
 		"1.13.2-recommended": "1.13.2-0.3.0",
-		"1.12.2-latest": "1.12.2-0.4.0-pre1",
-		"1.12.2-recommended": "1.12.2-0.4.0-pre1"
+		"1.12.2-recommended": "1.12.2-0.4.0-pre-2dca66a0",
+		"1.7.10-recommended": "1.3.2",
+		"1.7.2-recommended": "0.8"
 	}
 }
